@@ -12,7 +12,7 @@ Enable DCDN URLs for your static assets such as images, CSS or JavaScript files.
 
 == Description ==
 
-Simply integrate a distributed Content Delivery Network (dCDN) into your WordPress site.
+Simply integrate a Distributed Content Delivery Network (DCDN) into your WordPress site.
 
 = What it does? =
 The dCDN Engine plugin has been developed to link your content to the CDN URLs.
