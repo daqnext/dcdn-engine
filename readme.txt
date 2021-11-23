@@ -2,7 +2,7 @@
 Contributors: Meson Network
 Tags: cdn, dCDN, web3, content delivery network, content distribution network, distributed content delivery network
 Requires at least: 4.6
-Tested up to: 5.1
+Tested up to: 5.8.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,7 +30,7 @@ The dCDN Engine plugin has been developed to link your content to the CDN URLs.
 
 
 = Contribute =
-* Anyone is welcome to contribute to the plugin on [GitHub](https://github.com/daqnext/cdn-engine).
+* Anyone is welcome to contribute to the plugin on [GitHub](https://github.com/daqnext/dcdn-engine).
 * Please merge (squash) all your changes into a single commit before you open a pull request.
 
 
