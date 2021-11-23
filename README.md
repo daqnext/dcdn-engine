@@ -6,15 +6,15 @@ Simply integrate a Distributed Content Delivery Network (DCDN) into your WordPre
 
 ### Installation
 
-![Install Now](./assets/01.png)
+![Install Now](./assets/01.jpg)
 
-![Activate](./assets/02.png)
+![Activate](./assets/02.jpg)
 
 ### Configuration
 
-![Bind Domain](./assets/03.png)
+![Bind Domain](./assets/03.jpg)
 
-![DCDN Engine Settings](./assets/04.png)
+![DCDN Engine Settings](./assets/04.jpg)
 
 ```
 DCDN URL: https://coldcdn.com/api/cdn/xxxxxx
@@ -26,7 +26,7 @@ Exclusions: .php,.mp4,.csv,.xml,.tiff,.tif,.bmp,.svg,.rtf, .txt,.html,.htm,.css,
 
 ### Demo
 
-![DCDN Engine Settings](./assets/05.png)
+![DCDN Engine Settings](./assets/05.jpg)
 
 ## Contribute
 
