@@ -19,9 +19,9 @@ Simply integrate a Distributed Content Delivery Network (DCDN) into your WordPre
 ```
 DCDN URL: https://coldcdn.com/api/cdn/xxxxxx
 
-Included Directories: wp-content/uploads/
+Included Directories: wp-content,wp-includes
 
-Exclusions: .php,.mp4,.csv,.xml,.tiff,.tif,.bmp,.svg,.rtf, .txt,.html,.htm,.css,.js,.ico,.otf,.ttf,.woff
+Exclusions: .php
 ```
 
 ### Demo
